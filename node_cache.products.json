@@ -1,0 +1,451 @@
+[
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f3978f"
+    },
+    "name": "MacBook Pro 16-inch",
+    "description": "Professional grade laptop with stunning Retina display",
+    "price": 2399.99,
+    "category": "Laptops",
+    "specs": {
+      "processor": "M2 Pro",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "16-inch Retina",
+      "battery": "100Wh"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f39790"
+    },
+    "name": "Gaming Mouse X-900",
+    "description": "High-precision gaming mouse with RGB lighting",
+    "price": 79.99,
+    "category": "Peripherals",
+    "specs": {
+      "dpi": "16000",
+      "buttons": "8",
+      "wireless": true,
+      "rgb": true,
+      "weight": "95g"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f39791"
+    },
+    "name": "4K Ultra HD Monitor",
+    "description": "Professional 32-inch 4K monitor for content creation",
+    "price": 699.99,
+    "category": "Monitors",
+    "specs": {
+      "resolution": "3840x2160",
+      "refreshRate": "144Hz",
+      "panelType": "IPS",
+      "responseTime": "1ms",
+      "ports": {
+        "hdmi": 2,
+        "displayPort": 1,
+        "usb": 4
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f39792"
+    },
+    "name": "Mechanical Keyboard Pro",
+    "description": "Premium mechanical keyboard with Cherry MX switches",
+    "price": 159.99,
+    "category": "Peripherals",
+    "specs": {
+      "switchType": "Cherry MX Brown",
+      "layout": "Full size",
+      "backlight": "RGB",
+      "material": "Aluminum",
+      "connections": [
+        "USB-C",
+        "Bluetooth"
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f39793"
+    },
+    "name": "Gaming Desktop PC",
+    "description": "High-performance gaming desktop computer",
+    "price": 1999.99,
+    "category": "Computers",
+    "specs": {
+      "cpu": "Intel i9-13900K",
+      "gpu": "RTX 4080",
+      "ram": "32GB DDR5",
+      "storage": {
+        "ssd": "2TB NVMe",
+        "hdd": "4TB"
+      },
+      "cooling": "Liquid cooling"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f39794"
+    },
+    "name": "Wireless Earbuds Pro",
+    "description": "Premium wireless earbuds with active noise cancellation",
+    "price": 199.99,
+    "category": "Audio",
+    "specs": {
+      "batteryLife": "30 hours",
+      "driver": "12mm",
+      "noiseCancel": true,
+      "waterResistance": "IPX4",
+      "connectivity": "Bluetooth 5.2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f39795"
+    },
+    "name": "UltraWide Gaming Monitor",
+    "description": "49-inch curved ultrawide monitor for immersive gaming",
+    "price": 1299.99,
+    "category": "Monitors",
+    "specs": {
+      "resolution": "5120x1440",
+      "refreshRate": "240Hz",
+      "panelType": "VA",
+      "responseTime": "1ms",
+      "aspectRatio": "32:9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f39796"
+    },
+    "name": "Compact Mechanical Keyboard",
+    "description": "60% form factor mechanical keyboard for minimalists",
+    "price": 129.99,
+    "category": "Peripherals",
+    "specs": {
+      "switchType": "Cherry MX Red",
+      "layout": "60%",
+      "backlight": "White LED",
+      "material": "PBT",
+      "wireless": true
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f39797"
+    },
+    "name": "MacBook Air",
+    "description": "Thin and light laptop perfect for everyday use",
+    "price": 999.99,
+    "category": "Laptops",
+    "specs": {
+      "processor": "M2",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "display": "13.6-inch",
+      "battery": "52.6Wh"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f39798"
+    },
+    "name": "Gaming Headset Elite",
+    "description": "Premium gaming headset with surround sound",
+    "price": 249.99,
+    "category": "Audio",
+    "specs": {
+      "driver": "50mm",
+      "surround": "7.1",
+      "microphone": "Detachable",
+      "wireless": true,
+      "batteryLife": "20 hours"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f39799"
+    },
+    "name": "Vertical Ergonomic Mouse",
+    "description": "Ergonomic vertical mouse for reduced wrist strain",
+    "price": 89.99,
+    "category": "Peripherals",
+    "specs": {
+      "dpi": "4000",
+      "buttons": "6",
+      "wireless": true,
+      "ergonomic": true,
+      "batteryLife": "3 months"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f3979a"
+    },
+    "name": "Budget Gaming PC",
+    "description": "Affordable gaming desktop for entry-level gamers",
+    "price": 899.99,
+    "category": "Computers",
+    "specs": {
+      "cpu": "Ryzen 5 5600X",
+      "gpu": "RTX 3060",
+      "ram": "16GB DDR4",
+      "storage": {
+        "ssd": "500GB",
+        "hdd": "1TB"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f3979b"
+    },
+    "name": "Professional Studio Monitors",
+    "description": "High-end studio monitors for music production",
+    "price": 699.99,
+    "category": "Audio",
+    "specs": {
+      "driver": "8-inch",
+      "frequency": "35Hz-20kHz",
+      "power": "100W",
+      "inputs": [
+        "XLR",
+        "TRS"
+      ],
+      "type": "Active"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f3979c"
+    },
+    "name": "USB-C Hub Premium",
+    "description": "Multi-port USB-C hub with power delivery",
+    "price": 79.99,
+    "category": "Accessories",
+    "specs": {
+      "ports": {
+        "usb": 4,
+        "hdmi": 1,
+        "ethernet": 1,
+        "sdCard": 1
+      },
+      "powerDelivery": "100W",
+      "material": "Aluminum"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f3979d"
+    },
+    "name": "Webcam 4K Pro",
+    "description": "Professional 4K webcam for streaming and conferencing",
+    "price": 199.99,
+    "category": "Peripherals",
+    "specs": {
+      "resolution": "4K",
+      "fps": "60",
+      "microphone": "Dual array",
+      "fov": "90°",
+      "autofocus": true
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f3979e"
+    },
+    "name": "RGB Gaming Mouse Pad",
+    "description": "Extended RGB mouse pad with wireless charging",
+    "price": 49.99,
+    "category": "Accessories",
+    "specs": {
+      "size": "900x400mm",
+      "thickness": "4mm",
+      "rgb": true,
+      "material": "Micro-weave cloth",
+      "wirelessCharging": true
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f3979f"
+    },
+    "name": "Portable SSD",
+    "description": "High-speed portable SSD with encryption",
+    "price": 159.99,
+    "category": "Storage",
+    "specs": {
+      "capacity": "1TB",
+      "interface": "USB-C",
+      "speed": "1050MB/s",
+      "encryption": "256-bit AES",
+      "waterproof": true
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f397a0"
+    },
+    "name": "Mini PC",
+    "description": "Compact desktop PC for office use",
+    "price": 599.99,
+    "category": "Computers",
+    "specs": {
+      "cpu": "Intel i5-1235U",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "wifi": "WiFi 6",
+      "ports": {
+        "usb": 4,
+        "hdmi": 2
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f397a1"
+    },
+    "name": "Drawing Tablet Pro",
+    "description": "Professional drawing tablet with display",
+    "price": 899.99,
+    "category": "Peripherals",
+    "specs": {
+      "display": "15.6-inch",
+      "resolution": "1920x1080",
+      "pressureLevels": 8192,
+      "touchscreen": true,
+      "stylus": "Battery-free"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f397a2"
+    },
+    "name": "Bluetooth Speaker",
+    "description": "Portable waterproof Bluetooth speaker",
+    "price": 129.99,
+    "category": "Audio",
+    "specs": {
+      "power": "30W",
+      "batteryLife": "20 hours",
+      "waterproof": "IPX7",
+      "bluetooth": "5.0",
+      "speakerType": "Stereo"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f397a3"
+    },
+    "name": "NAS Storage System",
+    "description": "Network attached storage for home and small office",
+    "price": 499.99,
+    "category": "Storage",
+    "specs": {
+      "bays": 4,
+      "processor": "Quad-core",
+      "ram": "4GB",
+      "raid": [
+        "0",
+        "1",
+        "5",
+        "10"
+      ],
+      "gigabit": true
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f397a4"
+    },
+    "name": "Gaming Laptop Update",
+    "description": "High-performance gaming laptop with RGB",
+    "price": 1799.99,
+    "category": "Laptops",
+    "specs": {
+      "cpu": "Ryzen 9 7900X",
+      "gpu": "RTX 4070",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "17.3-inch 240Hz"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f397a5"
+    },
+    "name": "Wireless Mechanical Numpad",
+    "description": "Wireless mechanical numpad with programmable keys",
+    "price": 49.99,
+    "category": "Peripherals",
+    "specs": {
+      "switches": "Blue switches",
+      "wireless": true,
+      "programmable": true,
+      "backlight": true,
+      "batteryLife": "200 hours"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f397a6"
+    },
+    "name": "USB Microphone",
+    "description": "Professional USB condenser microphone",
+    "price": 149.99,
+    "category": "Audio",
+    "specs": {
+      "pattern": "Cardioid",
+      "resolution": "24-bit/96kHz",
+      "monitoring": "Zero-latency",
+      "controls": [
+        "Gain",
+        "Mute",
+        "Mix"
+      ],
+      "mount": "Shock mount included"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f397a7"
+    },
+    "name": "Smart Dock Station",
+    "description": "Thunderbolt 4 dock with multiple displays support",
+    "price": 299.99,
+    "category": "Accessories",
+    "specs": {
+      "thunderbolt": 4,
+      "displayPorts": 2,
+      "powerDelivery": "96W",
+      "ethernet": "2.5Gbps",
+      "audio": "3.5mm combo"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735bfe150b37a7bf7f397a8"
+    },
+    "name": "Creator PC",
+    "description": "Workstation PC for content creation",
+    "price": 2499.99,
+    "category": "Computers",
+    "specs": {
+      "cpu": "Ryzen Threadripper",
+      "gpu": "RTX 4090",
+      "ram": "128GB ECC",
+      "storage": {
+        "ssd": "4TB NVMe",
+        "hdd": "12TB RAID"
+      },
+      "cooling": "Custom loop"
+    }
+  }
+]
